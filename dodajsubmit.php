@@ -1,6 +1,7 @@
 
 
 <br>
+ <link rel="Stylesheet" type="text/css" href="paint.css" />
 <br>
 <center>
 <?php    //nazwa obrazka
