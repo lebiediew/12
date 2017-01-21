@@ -4,7 +4,7 @@ ob_start();
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="Stylesheet" type="text/css" href="pit.css" />
+  <link rel="Stylesheet" type="text/css" href="paint.css" />
     <title>Serwer Plików</title>
 </head>
 
