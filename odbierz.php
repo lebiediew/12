@@ -1,3 +1,4 @@
+ <link rel="Stylesheet" type="text/css" href="paint.css" />
 <?php 
 if (is_uploaded_file($_FILES['plik']['tmp_name']))
 { 
